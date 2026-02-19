@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by [GBspeed Kagwiria Pauline Liz Gilbert].
+A collaborative guide by [GBspeed Kagwiria Pauline Liz  Gilbert].
 
 ## Table of Contents
 - [Introduction](#introduction)
