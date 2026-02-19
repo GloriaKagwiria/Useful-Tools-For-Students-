@@ -16,7 +16,33 @@ This is a guide that covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
-<!-- [Team Member 1 Franklin] will write this section -->
+<!--[Franklin Nzioki] Visual Studio Code (VS Code) is a free, lightweight and very powerful source code editor developed by Microsoft. It works with Windows, macOS, Linux and web browsers so is cross-platform and perfect for both beginners as well as more advanced developers. Based on the open-source Code - OSS repository, VS Code was built and is maintained by Microsoft with contributions from the community Built in JavaScript and Typescript Literal Programming Building modern web and cloud applications.
+### Key Uses of VS Code:
+#####Code Editing & Development:
+For languages like JavaScript, TypeScript, Python, C++, HTML, and CSS, Visual Studio Code offers syntax highlighting, code refactoring,   intelligent code completion (IntelliSense), and snippets.
+####Debugging:
+Step-by-step code execution, breakpoint setting, and real-time variable examination are made possible by the built-in support for debugging Node.js applications and the extension's integration with debuggers for other languages.
+####Version control:
+Users can view changes, commit, push, pull, and manage code repositories all within the editor thanks to native Git integration.
+####Integrated Terminal: 
+You can do command-line operations without ever leaving the editor thanks to an integrated terminal that supports Bash, Zsh, PowerShell, WSL, and other shells.
+####Flexibility: 
+Visual Studio Code can be expanded to include more languages and frameworks.
+####Remote Development: 
+Developers may easily work on distant computers, containers, or Linux environments with extensions like Remote-SSH, Remote-Containers, and Remote-WSL.
+####Web & Cloud Development:
+VS Code is a popular tool for creating websites, APIs, and cloud-native apps since it is optimized for web technologies (HTML, CSS, JavaScript, JSX/React).
+####Collaboration:
+Real-time collaborative coding sessions with other developers are made possible by features like Live Share.
+####Cross-Platform:
+accessible via browser (vscode.dev) for instant access without installation, as well as Windows, macOS, and Linux.
+### How to Get Started
+1. Download it from [code.visualstudio.com](https://code.visualstudio.com/).
+2. Install the recommended extensions for your programming language.
+3. Open a folder and start coding.
+### Useful Links
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+- [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)-->
 
 ## Notion
 <!-- [Team Member 2 Kagwiria] will write this section -->
