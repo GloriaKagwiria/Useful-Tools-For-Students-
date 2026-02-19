@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by [GBspeed Kagwiria Pauline Liz Gilbert].
+A collaborative guide by [Franklin  Kagwiria Pauline Liz Gilbert].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,7 +16,7 @@ This is a guide that covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
-<!-- [Team Member 1 GBspeed] will write this section -->
+<!-- [Team Member 1 Franklin] will write this section -->
 
 ## Notion
 <!-- [Team Member 2 Kagwiria] will write this section -->
