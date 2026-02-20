@@ -45,7 +45,26 @@ accessible via browser (vscode.dev) for instant access without installation, as 
 - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)-->
 
 ## Notion
-<!-- [Team Member 2 Kagwiria] will write this section -->
+<!-- [Kagwiria]  -->
+## VS Code
+
+**Notion** (Notion) is an all-in-one workspace app that let's you take notes,manage tasks, and collaborate with teams.
+It is most popular for its versatility and flexibility. Notion is an app developed by  Notion Labs Inc.
+
+### Why Students Should Use It
+- It works on Windows, Mac, Android and iOS.
+- It is an all in one workspace enabling students to take notes, manage assignments, and plan projects, all in one place without having to switch between apps.
+- It is customizable and flexible allowing students create their own templates for classes, assignments, or study schedules.
+- It makes collaboration easier since group projects and study sessions are made a breeze its real-time teamwork features.
+
+### How to Get Started
+1. Download it from [notion.com](https://www.notion.com) or head to your device's appstore.
+2. Install by running the downloaded file and following the prompts.
+3. Sign up and you're ready to start using.
+
+### Useful Links
+- [Notion App Sign up](https://www.notion.so/signup)
+- [Notion App Guides and Tutorials ](https://www.notion.com/help/guides/using-notion-for-products-roadmaps)
 
 ## Canva
 <!-- [Team Member 3 Pauline] will write this section -->
