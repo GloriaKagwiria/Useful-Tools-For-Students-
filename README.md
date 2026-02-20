@@ -46,7 +46,6 @@ accessible via browser (vscode.dev) for instant access without installation, as 
 
 ## Notion
 <!-- [Kagwiria]  -->
-## Notion
 
 **Notion** (Notion) is an all-in-one workspace app that let's you take notes,manage tasks, and collaborate with teams.
 It is most popular for its versatility and flexibility. Notion is an app developed by  Notion Labs Inc.
