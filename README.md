@@ -66,7 +66,24 @@ It is most popular for its versatility and flexibility. Notion is an app develop
 - [Notion App Guides and Tutorials ](https://www.notion.com/help/guides/using-notion-for-products-roadmaps)
 
 ## Canva
-<!-- [Team Member 3 Pauline] will write this section -->
+<!-- [Pauline] -->
+### **Canvas as a Useful Tool for Students**
+
+**Canvas** is an online learning management system (LMS) that helps students organize, access, and manage their learning more efficiently. Here are some ways it benefits students:
+1.  **Centralized Learning Platform  
+    **All your courses, assignments, and resources are in one place. You don’t have to search through emails or different websites.  
+2.  **Easy Access to Materials  
+    ***Teachers can upload lecture notes, presentations, videos, and links. Students can access them anytime, making it easy to study at their own pace.  
+3.  **Assignment Management  
+    ***Canvas tracks assignments, deadlines, and submissions. Students can submit work online and get feedback quickly.  
+4.  **Communication Tools  
+    ***Canvas has discussion boards, messaging, and announcements so students can ask questions, interact with teachers, and collaborate with classmates.  
+5.  **Progress Tracking  
+    ***Students can check their grades, assignment status, and course progress in real time, helping them stay on top of their studies.  
+6.  **Integration with Other Tools  
+    ***Canvas can connect with Google Drive, Zoom, and other apps, making learning more interactive and flexible.  
+7.  **Accessibility Features  
+    ***Canvas supports screen readers, mobile access, and other tools that make learning easier for students with different needs.
 
 ## Chatgpt
 <!-- [Team Member 4 Liz] will write this section -->
