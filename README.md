@@ -45,13 +45,203 @@ accessible via browser (vscode.dev) for instant access without installation, as 
 - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)-->
 
 ## Notion
-<!-- [Team Member 2 Kagwiria] will write this section -->
+<!-- [Kagwiria]  -->
+
+**Notion** (Notion) is an all-in-one workspace app that let's you take notes,manage tasks, and collaborate with teams.
+It is most popular for its versatility and flexibility. Notion is an app developed by  Notion Labs Inc.
+
+### Why Students Should Use It
+- It works on Windows, Mac, Android and iOS.
+- It is an all in one workspace enabling students to take notes, manage assignments, and plan projects, all in one place without having to switch between apps.
+- It is customizable and flexible allowing students create their own templates for classes, assignments, or study schedules.
+- It makes collaboration easier since group projects and study sessions are made a breeze its real-time teamwork features.
+
+### How to Get Started
+1. Download it from [notion.com](https://www.notion.com) or head to your device's appstore.
+2. Install by running the downloaded file and following the prompts.
+3. Sign up and you're ready to start using.
+
+### Useful Links
+- [Notion App Sign up](https://www.notion.so/signup)
+- [Notion App Guides and Tutorials ](https://www.notion.com/help/guides/using-notion-for-products-roadmaps)
 
 ## Canva
-<!-- [Team Member 3 Pauline] will write this section -->
+<!-- [Pauline] -->
+### **Canvas as a Useful Tool for Students**
+
+**Canvas** is an online learning management system (LMS) that helps students organize, access, and manage their learning more efficiently. Here are some ways it benefits students:
+1.  Centralized Learning Platform  
+    All your courses, assignments, and resources are in one place. You don’t have to search through emails or different websites.  
+2.  Easy Access to Materials  
+    Teachers can upload lecture notes, presentations, videos, and links. Students can access them anytime, making it easy to study at their own pace.  
+3.  Assignment Management  
+    Canvas tracks assignments, deadlines, and submissions. Students can submit work online and get feedback quickly.  
+4.  Communication Tools  
+    Canvas has discussion boards, messaging, and announcements so students can ask questions, interact with teachers, and collaborate with classmates.  
+5.  Progress Tracking  
+    Students can check their grades, assignment status, and course progress in real time, helping them stay on top of their studies.  
+6.  Integration with Other Tools  
+    Canvas can connect with Google Drive, Zoom, and other apps, making learning more interactive and flexible.  
+7.  Accessibility Features  
+    Canvas supports screen readers, mobile access, and other tools that make learning easier for students with different needs.
 
 ## Chatgpt
-<!-- [Team Member 4 Liz] will write this section -->
+
+ChatGPT is an AI-powered conversational assistant developed by OpenAI.  
+It is designed to understand natural language and generate human-like text responses.
+
+It is based on a type of artificial intelligence called a **Large Language Model (LLM)**, trained on vast amounts of text data to understand patterns in language and respond intelligently.
+
+---
+
+### Usefulness of ChatGPT
+
+## 1️⃣ Learning & Education
+- Explains complex topics in simple terms  
+- Helps with homework and assignments  
+- Generates summaries and study notes  
+- Creates practice questions and quizzes  
+
+## 2️⃣ Writing & Communication
+- Drafts emails, essays, and reports  
+- Improves grammar and clarity  
+- Generates creative content (stories, scripts, blogs)  
+- Helps write resumes and cover letters  
+
+## 3️⃣ Work & Productivity
+- Brainstorms ideas  
+- Creates meeting agendas  
+- Drafts business proposals  
+- Summarizes long documents  
+
+## 4️⃣ Coding & Technical Help
+- Writes code in multiple programming languages  
+- Explains code step-by-step  
+- Debugs errors  
+- Suggests improvements and optimizations  
+
+## 5️⃣ Everyday Assistance
+- Meal planning  
+- Travel planning  
+- Fitness routines  
+- Personal productivity tips  
+
+---
+
+#### Why ChatGPT is Powerful
+
+- Available 24/7  
+- Provides instant responses  
+- Adapts tone (formal, casual, detailed, simple)  
+- Supports a wide range of topics  
+
+---
+
+#### Conclusion
+
+ChatGPT is a versatile AI tool that enhances learning, productivity, creativity, and problem-solving.  
+It acts as a digital assistant that can support students, professionals, developers, and businesses.
+
 
 ## Slack
 <!-- [Team Member 5 Gilbert] will write this section -->
+Here is your **Markdown presentation** (perfect for GitHub README or GitHub Pages):
+
+---
+
+# 📚 Slack as a Useful Tool for Students
+
+---
+
+## 🟣 Slide 1: Introduction
+
+* **Slack** is a communication and collaboration platform.
+* Originally designed for workplaces.
+* Now widely used by students for academic purposes.
+
+---
+
+## 🟣 Slide 2: Why Students Need Slack
+
+* Group projects require constant communication.
+* Emails can be slow and disorganized.
+* Messaging apps mix personal and academic chats.
+* Slack keeps everything structured.
+
+---
+
+## 🟣 Slide 3: Organized Communication
+
+* Create channels for each subject.
+* Separate channels for:
+
+  * `#assignments`
+  * `#exam-prep`
+  * `#project-team`
+* Searchable message history.
+
+---
+
+## 🟣 Slide 4: Easy File Sharing
+
+* Share PDFs, presentations, and documents instantly.
+* Integrates with:
+
+  * Google Drive
+  * Zoom
+* Keeps resources in one place.
+
+---
+
+## 🟣 Slide 5: Improves Teamwork
+
+* Encourages professional communication.
+* Helps assign and manage tasks.
+* Prepares students for workplace collaboration tools.
+
+---
+
+## 🟣 Slide 6: Supports Online Learning
+
+* Useful for remote classes.
+* Quick updates and announcements.
+* Works on both mobile and desktop devices.
+
+---
+
+## 🟣 Slide 7: Example Use Case
+
+A class can create:
+
+* One Slack workspace
+* Channels like:
+
+  * `#homework`
+  * `#exam-review`
+  * `#project-discussion`
+
+All discussions stay organized and easy to access.
+
+---
+
+## 🟣 Slide 8: Advantages
+
+* ✅ Saves time
+* ✅ Reduces confusion
+* ✅ Improves productivity
+* ✅ Easy to use
+
+---
+
+## 🟣 Slide 9: Conclusion
+
+Slack is more than just a messaging app.
+It helps students stay organized, collaborate effectively, and succeed academically.
+
+---
+
+If you'd like, I can also format it for:
+
+* GitHub Pages (Reveal.js style slides)
+* A README.md project file
+* Or add speaker notes under each slide
