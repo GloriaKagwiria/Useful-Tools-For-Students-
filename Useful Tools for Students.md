@@ -14,7 +14,7 @@ A collaborative guide by [Franklin Kagwiria Pauline Liz  Gilbert].
 ## Introduction
 This is a guide that covers tools that every student should know about.
 Each section is written by a different team member.
-
+<!-- [Franklin] -->
 ## VS Code
 Visual Studio Code (VS Code) is a free, lightweight and very powerful source code editor developed by Microsoft. It works with Windows, macOS, Linux and web browsers so is cross-platform and perfect for both beginners as well as more advanced developers. Based on the open-source Code - OSS repository, VS Code was built and is maintained by Microsoft with contributions from the community Built in JavaScript and Typescript Literal Programming Building modern web and cloud applications.
 ### Key Uses of VS Code:
