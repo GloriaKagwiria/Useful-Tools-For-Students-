@@ -240,8 +240,3 @@ It helps students stay organized, collaborate effectively, and succeed academica
 
 ---
 
-If you'd like, I can also format it for:
-
-* GitHub Pages (Reveal.js style slides)
-* A README.md project file
-* Or add speaker notes under each slide
