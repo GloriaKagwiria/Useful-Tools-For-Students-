@@ -101,7 +101,7 @@ Using high-quality images is important for creating professional-looking designs
 # Conclusion #
 Canva is a valuable tool for schools looking to create professional-looking materials without needing to hire a graphic designer. With its user-friendly interface, cost-effective pricing, and versatile design capabilities, Canva is a useful tool for schools looking to create posters, flyers, social media graphics, and presentations. By following these tips and using Canva effectively, schools can create high-quality materials that promote their brand and engage their stakeholders.
 
-## Chatgpt
+## ChatGPT
 
 ChatGPT is an AI-powered conversational assistant developed by OpenAI.  
 It is designed to understand natural language and generate human-like text responses.
