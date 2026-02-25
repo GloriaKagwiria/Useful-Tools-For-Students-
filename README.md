@@ -7,7 +7,7 @@ A collaborative guide by [Franklin Kagwiria Pauline Liz  Gilbert].
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
-- [Chatgpt](#chatgpt)
+- [ChatGPT](#chatGPT)
 - [Slack](#slack)
   
 
@@ -50,7 +50,7 @@ accessible via browser (vscode.dev) for instant access without installation, as 
 ## Canva
 <!-- [Team Member 3 Pauline] will write this section -->
 
-## Chatgpt
+## ChatGPT
 
 ChatGPT is an AI-powered conversational assistant developed by OpenAI.  
 It is designed to understand natural language and generate human-like text responses.
@@ -93,7 +93,7 @@ It is based on a type of artificial intelligence called a **Large Language Model
 
 ---
 
-#### Why ChatGPT is Powerful
+### Why ChatGPT is Powerful
 
 - Available 24/7  
 - Provides instant responses  
@@ -102,7 +102,7 @@ It is based on a type of artificial intelligence called a **Large Language Model
 
 ---
 
-#### Conclusion
+### Conclusion
 
 ChatGPT is a versatile AI tool that enhances learning, productivity, creativity, and problem-solving.  
 It acts as a digital assistant that can support students, professionals, developers, and businesses.
