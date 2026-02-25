@@ -67,23 +67,39 @@ It is most popular for its versatility and flexibility. Notion is an app develop
 
 ## Canva
 <!-- [Pauline] -->
-### **Canvas as a Useful Tool for Students**
+### **Canva as a Useful Tool for Students**
 
-**Canvas** is an online learning management system (LMS) that helps students organize, access, and manage their learning more efficiently. Here are some ways it benefits students:
-1.  Centralized Learning Platform  
-    All your courses, assignments, and resources are in one place. You don’t have to search through emails or different websites.  
-2.  Easy Access to Materials  
-    Teachers can upload lecture notes, presentations, videos, and links. Students can access them anytime, making it easy to study at their own pace.  
-3.  Assignment Management  
-    Canvas tracks assignments, deadlines, and submissions. Students can submit work online and get feedback quickly.  
-4.  Communication Tools  
-    Canvas has discussion boards, messaging, and announcements so students can ask questions, interact with teachers, and collaborate with classmates.  
-5.  Progress Tracking  
-    Students can check their grades, assignment status, and course progress in real time, helping them stay on top of their studies.  
-6.  Integration with Other Tools  
-    Canvas can connect with Google Drive, Zoom, and other apps, making learning more interactive and flexible.  
-7.  Accessibility Features  
-    Canvas supports screen readers, mobile access, and other tools that make learning easier for students with different needs.
+What is Canva?
+Canva is an online graphic design platform that allows users to create a wide range of visual content, including posters, flyers, social media graphics, documents and presentations. In recent years, Canva has become increasingly popular in schools as a tool for creating visually appealing and professional-looking materials.
+
+# Benefits of Canva for Schools#
+## Easy to Use ##
+One of the main benefits of Canva is that it is very user-friendly. The platform provides a range of templates, graphics, and design elements that can be easily customized by users with little to no design experience. This makes it easy for schools to create professional-looking materials without needing to hire a graphic designer.
+
+## Cost-Effective ##
+Canva is a cost-effective solution for schools, as it provides a range of free templates and design elements that can be used to create high-quality materials. While some premium templates and elements do require payment, the cost is typically much lower than hiring a graphic designer or purchasing expensive design software.
+
+## Versatile ##
+Canva is a versatile tool that can be used to create a wide range of materials, including posters, flyers, social media graphics, and presentations. This makes it a useful tool for schools to use for a variety of purposes, from promoting events to creating instructional materials for students.
+
+## Collaboration ##
+Canva allows multiple users to collaborate on a single design, which is useful for schools that need to create materials as a team. This feature allows teachers, students, and other staff members to work together on a single design, making the process more efficient and collaborative.
+
+# Tips for Using Canva Effectively #
+**Choose the Right Template**
+Canva provides a wide range of templates for different types of designs. It’s important to choose a template that is appropriate for the purpose of the design, as this will make the design process easier and more efficient.
+
+**Customise Design Elements**
+While Canva provides a range of design elements, it’s important to customize these elements to make the design unique and appropriate for the school’s needs. Customizing fonts, colours, and images can help to create a more personalized and professional-looking design.
+
+**Keep it Simple**
+When designing materials for schools, it’s important to keep the design simple and easy to read. Avoid using too many colours or fonts, as this can make the design look cluttered and confusing.
+
+**Use High-Quality Images**
+Using high-quality images is important for creating professional-looking designs. Canva provides a range of stock images that can be used for free or purchased, but it’s important to choose images that are appropriate and of high quality.
+
+# Conclusion #
+Canva is a valuable tool for schools looking to create professional-looking materials without needing to hire a graphic designer. With its user-friendly interface, cost-effective pricing, and versatile design capabilities, Canva is a useful tool for schools looking to create posters, flyers, social media graphics, and presentations. By following these tips and using Canva effectively, schools can create high-quality materials that promote their brand and engage their stakeholders.
 
 ## Chatgpt
 
