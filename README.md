@@ -7,7 +7,7 @@ A collaborative guide by [Franklin Kagwiria Pauline Liz  Gilbert].
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
-- [Chatgpt](#chatgpt)
+- [ChatGPT](#chatGPT)
 - [Slack](#slack)
   
 
@@ -144,7 +144,7 @@ It is based on a type of artificial intelligence called a **Large Language Model
 
 ---
 
-#### Why ChatGPT is Powerful
+### Why ChatGPT is Powerful
 
 - Available 24/7  
 - Provides instant responses  
@@ -153,7 +153,7 @@ It is based on a type of artificial intelligence called a **Large Language Model
 
 ---
 
-#### Conclusion
+### Conclusion
 
 ChatGPT is a versatile AI tool that enhances learning, productivity, creativity, and problem-solving.  
 It acts as a digital assistant that can support students, professionals, developers, and businesses.
