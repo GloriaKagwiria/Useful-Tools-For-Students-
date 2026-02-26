@@ -1,0 +1,8 @@
+
+
+Adding a visible “Your connection is secure” indicator reassures users that their login session is protected. Placing a small lock icon and a short note like “Your connection is encrypted with TLS 1.2+” near the password field or sign-in button helps build immediate trust.
+Added eye icon inside password field
+- Implemented toggle behavior (show/hide password on click)
+- Added optional auto-hide after inactivity
+- Improves usability and reduces login errors"
+
