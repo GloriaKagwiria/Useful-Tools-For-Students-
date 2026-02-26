@@ -56,7 +56,7 @@ It is most popular for its versatility and flexibility. Notion is an app develop
 - It is customizable and flexible allowing students create their own templates for classes, assignments, or study schedules.
 - It makes collaboration easier since group projects and study sessions are made a breeze its real-time teamwork features.
 
-### How to Get Started
+### How to Get Started on Notion
 1. Download it from [notion.com](https://www.notion.com) or head to your device's appstore.
 2. Install by running the downloaded file and following the prompts.
 3. Sign up and you're ready to start using.
